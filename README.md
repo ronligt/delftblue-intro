@@ -17,5 +17,3 @@ Examples include:
 - Python ASE, to illustrate how you can install your own packages
 - Bonus: MPI/OpenMP/CUDA example to illustrate how parallelism/acceleration works
 - Bonus: PyTorch example to illustrate how a typical GPU job works
-# delftblue-intro
-# delftblue-intro
